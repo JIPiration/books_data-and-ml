@@ -1,5 +1,6 @@
-# books_data-and-ml
-List of books on data and machine learning that I am studying and practicing
+# Practice Machine Learning and data by Books
+- List of books on data and machine learning that I am studying and practicing
 
-### 
-Book lists
+### Books list
+
+
